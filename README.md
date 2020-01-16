@@ -1,2 +1,2 @@
 # Numerical_Analysis
-Contains code for mathematical methods written in MATLAB
+Contains code for numerical methods written in MATLAB
